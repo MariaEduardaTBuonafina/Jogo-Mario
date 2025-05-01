@@ -1,6 +1,6 @@
 # 🎮 Jogo do Mario
 
-Este projeto é um minigame inspirado no clássico Mario Bros, desenvolvido com HTML, CSS e JavaScript. O jogador deve pular obstáculos e tentar sobreviver o maior tempo possível. O jogo é simples, leve e funciona diretamente no navegador.
+Este é um projeto acadêmico baseado neste link (https://www.youtube.com/watch?v=r9buAwVBDhA&t=1s) inspirado no clássico Mario Bros, desenvolvido com HTML, CSS e JavaScript. O jogador deve pular obstáculos e tentar sobreviver o maior tempo possível. O jogo é simples, leve e funciona diretamente no navegador.
 
 ---
 
